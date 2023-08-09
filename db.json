@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "Mensaje": "Un juglar no tiene miedo a morir"
     }
   ],
   "profile": {
